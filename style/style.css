@@ -1,0 +1,15 @@
+body header nav {
+  background-color: rgb(6, 74, 126);
+}
+body main {
+  flex: 1 0 auto;
+  background-color: rgb(243, 244, 245);
+}
+body main #input {
+  margin: auto;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+body footer {
+  background-color: rgb(6, 74, 126);
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,19 @@
+body{
+    header{
+        
+        nav{
+            background-color: rgb(6, 74, 126);
+        }
+    }
+    main{
+        flex:1 0 auto;
+        background-color: rgb(243, 244, 245);
+        #input{
+            margin: auto;
+            width: fit-content;
+        }
+    }
+    footer{
+        background-color: rgb(6, 74, 126);
+    }
+}
